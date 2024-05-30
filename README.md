@@ -26,11 +26,16 @@ Responsable Production Veritable SAS (2017-2019)
 ### Projets
 Challenge et Formations 
 
+Objectif : 
+
 - Application concrète des principes fondamentaux de la programmation, de la data science et du data engineering
 
 - Intégration des étapes clés d'un projet d'analyse statistique, de modélisation et de machine learning.
 
 - Utilisation des bibliothèques : Matplotlib, Seaborn, Scikit-learn, Pandas, Numpy.
+
+
+Pratique : 
 
 - Nettoyage et préparation d'un jeu de données : visualisation et compréhension du jeu de données, traitement des valeurs manquantes (Random Forest Regressor).
 
