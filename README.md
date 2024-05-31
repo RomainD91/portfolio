@@ -1,5 +1,5 @@
 # Data Scientist
-Compétences techniques : Python, Github, Jupyter, SQL, Power BI, Excel, HTML
+Compétences techniques : Python, Github, Jupyter, SQL, Power BI, Excel
 
 
 ### Formations
