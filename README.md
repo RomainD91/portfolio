@@ -1,50 +1,39 @@
 # Data Scientist
-Compétences techniques : Python, Github, Jupyter, SQL, Power BI, Excel
 
+**Technical Skills:** Python, Github, Jupyter, Excel, SQL, Power BI
 
-### Formations
+### Projects
+#### Customer Churn Prediction - Machine Learning Project
 
-- Master 2, Gestion Industrielle IAE Bordeaux (2016)
-- Bachelor, Commerce International Université de Coventry (2013)
-- DUT, Gestion des entreprises et des administrations (2012)
+[Github Code](https://github.com/RomainD91/Project-ML-Customer-Churn-Prediction.git)
 
-### Expériences professionnelles
-Coach Professionnel Freelance (2019-2023)
+Development of a machine learning model to predict customer churn for a telecommunications company using Python. This project includes data analysis and fundamental applications of preprocessing and modeling techniques. It addresses class imbalance and performs feature engineering to enhance model accuracy. The result is a high recall (0.8-0.9), effectively identifying customers likely to churn. In conclusion, recommendations are made to improve model accuracy, strengthen customer retention, overall satisfaction, and long-term loyalty.
 
-- Organisation et coordination réussies de 50 événements professionnels, notamment des formations, des ateliers et des campagnes.
+#### Uber Supply-Demand Gap Analysis
 
-- Supervision administrative et stratégique garantissant l'efficacité opérationnelle et technique, avec une rentabilité de 70%.
+[Github Code](https://github.com/RomainD91/Project-EDA-Uber-supply-demand.git)
 
-- Développement et maintien de relations client, avec un taux de satisfaction de 90% en 2023.
+Developed a data analysis project to identify causes of Uber driver cancellations and car unavailability during trips to the airport. This project included time series analysis, data visualization, and advanced analytics. Key observations highlighted significant supply-demand gaps during morning and evening rush hours. This led to recommendations such as dynamic pricing, improved driver communication, and predictive analytics. These measures aim to improve service availability, customer satisfaction, and better understand underlying issues.
 
-Responsable Production Veritable SAS (2017-2019)
+---
 
-- Supervision administrative et opérationnelle d'un projet d'internalisation de l'assemblage et de la logistique en 2019, atteignant 100% des objectifs qualitatifs et quantitatifs fixés.
+### Education
+Master 2, Industrial Management, IAE Bordeaux (2016)
+Bachelor's Degree, International Business, Coventry University (2013)
+DUT, Business and Administration Management, (2012)
 
-- Amélioration continue : réduction des ruptures de stock de 45%, du temps de traitement de 50%, des erreurs de traitement de 35%, et des non-conformités de 20%.
+---
 
-### Projets
-Challenge et Formations 
+### Professional Experience
 
-Objectif : 
+#### Freelance Professional Coach (2019-2023)
+- Successfully organized and coordinated 50 professional events, including workshops and campaigns.
 
-- Application concrète des principes fondamentaux de la programmation, de la data science et du data engineering
+- Administrative and strategic supervision ensuring operational and technical efficiency, achieving 70% profitability.
 
-- Intégration des étapes clés d'un projet d'analyse statistique, de modélisation et de machine learning.
+- Developed and maintained client relationships, achieving a 90% satisfaction rate in 2023.
 
-- Utilisation des bibliothèques : Matplotlib, Seaborn, Scikit-learn, Pandas, Numpy.
+#### Production Manager, Veritable SAS (2017-2019)
+- Administrative and operational supervision of a project internalizing assembly and logistics in 2019, meeting 100% of qualitative and quantitative objectives.
 
-
-Pratique : 
-
-- Nettoyage et préparation d'un jeu de données : visualisation et compréhension du jeu de données, traitement des valeurs manquantes (Random Forest Regressor).
-
-- Analyse statistique : recherche de relations entre les caractéristiques (heatmap de corrélation) et validation d'hypothèses (échantillonnage aléatoire et t-test).
-
-- Pré-modélisation : sélection des variables pertinentes, création de variables factices (dummies) et mise à l'échelle (standardisation).
-
-- Modélisation : définition (clustering, classification, régression), sélection (k-moyennes, KNN, régression linéaire), entraînement (apprentissage d’ensemble, bagging), évaluation et ajustement des modèles (matrice de confusion).
-
-
-
-  
+- Continuous improvement: Reduced stock shortages by 45%, processing time by 50%, processing errors by 35%, and non-conformities by 20%.
