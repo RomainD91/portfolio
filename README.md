@@ -1,8 +1,15 @@
 # Data Scientist
 
-**Technical Skills:** Python, Github, Jupyter, Excel, SQL, Power BI
+#### Technical Skills:** Python, Github, Jupyter, Excel, SQL, Power BI
 
-### Projects
+## Education
+- Master 2, Industrial Management | IAE Bordeaux (_2016_)
+- Bachelor's Degree, International Business | Coventry University (_2013_)
+- DUT, Business and Administration Management | IUT Saint Etienne (_2012_)
+
+---
+
+## Projects
 #### Customer Churn Prediction - Machine Learning Project
 
 [Github Code](https://github.com/RomainD91/Project-ML-Customer-Churn-Prediction.git)
@@ -17,14 +24,8 @@ Developed a data analysis project to identify causes of Uber driver cancellation
 
 ---
 
-### Education
-Master 2, Industrial Management, IAE Bordeaux (2016)
-Bachelor's Degree, International Business, Coventry University (2013)
-DUT, Business and Administration Management, (2012)
 
----
-
-### Professional Experience
+## Professional Experience
 
 #### Freelance Professional Coach (2019-2023)
 - Successfully organized and coordinated 50 professional events, including workshops and campaigns.
