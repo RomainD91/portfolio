@@ -10,13 +10,13 @@
 ---
 
 ## Projects
-#### Customer Churn Prediction - Machine Learning Project
+#### Customer Churn Prediction - Machine Learning
 
 [Github Code](https://github.com/RomainD91/Project-ML-Customer-Churn-Prediction.git)
 
 Development of a machine learning model to predict customer churn for a telecommunications company using Python. This project includes data analysis and fundamental applications of preprocessing and modeling techniques. It addresses class imbalance and performs feature engineering to enhance model accuracy. The result is a high recall (0.8-0.9), effectively identifying customers likely to churn. In conclusion, recommendations are made to improve model accuracy, strengthen customer retention, overall satisfaction, and long-term loyalty.
 
-#### Uber Supply-Demand Gap Analysis
+#### Uber Supply/Demand Gap - Data Analysis
 
 [Github Code](https://github.com/RomainD91/Project-EDA-Uber-supply-demand.git)
 
