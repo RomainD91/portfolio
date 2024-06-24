@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills:** Python, Github, Jupyter, Excel, SQL, Power BI
+**Technical Skills:** Python, Github, Jupyter, Excel, SQL, Power BI
 
 ## Education
 - Master 2, Industrial Management | IAE Bordeaux (_2016_)
